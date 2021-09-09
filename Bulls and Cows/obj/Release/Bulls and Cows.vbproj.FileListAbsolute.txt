@@ -1,0 +1,16 @@
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\Bin\Release\Assets\ApplicationIcon.png
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\Bin\Release\Bulls and Cows.dll
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\Bin\Release\Bulls and Cows.pdb
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\Bin\Release\Bulls and Cows.xml
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\Bin\Release\AppManifest.xaml
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\Bin\Release\My Project\WMAppManifest.xml
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\Bin\Release\BullsNCows_Release_AnyCPU.xap
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\App.g.i.vb
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\MainPage.g.i.vb
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\Bulls and Cows.g.resources
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\BullsNCows.AppResources.resources
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\Bulls and Cows.vbproj.GenerateResource.Cache
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\Bulls and Cows.dll
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\Bulls and Cows.xml
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\Bulls and Cows.pdb
+D:\Corporate\ANIco.in\Windows Phone Apps\Bulls and Cows\Bulls and Cows\obj\Release\XapCacheFile.xml

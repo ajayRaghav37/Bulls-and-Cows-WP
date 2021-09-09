@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BullsandCows
+</name>
+</assembly>
+<members>
+<member name="P:BullsNCows.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:BullsNCows.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="T:BullsNCows.LocalizedStrings">
+	<summary>
+ Provides access to string resources.
+ </summary>
+</member><member name="M:BullsNCows.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:BullsNCows.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:BullsNCows.AppResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BullsNCows.AppResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BullsNCows.AppResources.AppBarButtonText">
+	<summary>
+  Looks up a localized string similar to add.
+</summary>
+</member><member name="P:BullsNCows.AppResources.AppBarMenuItemText">
+	<summary>
+  Looks up a localized string similar to Menu Item.
+</summary>
+</member><member name="P:BullsNCows.AppResources.ApplicationTitle">
+	<summary>
+  Looks up a localized string similar to Bulls and Cows.
+</summary>
+</member><member name="P:BullsNCows.AppResources.ResourceFlowDirection">
+	<summary>
+  Looks up a localized string similar to LeftToRight.
+</summary>
+</member><member name="P:BullsNCows.AppResources.ResourceLanguage">
+	<summary>
+  Looks up a localized string similar to en-US.
+</summary>
+</member><member name="T:BullsNCows.AppResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
